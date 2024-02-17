@@ -1,2 +1,2 @@
-# kaushik.github.io
-Repo for Portfolio Domain of Trijal Kaushik (iusethinkpad.in)
+# iuseathinkpad.in
+Repo for blog project Domain of Trijal Kaushik (iusethinkpad.in)
